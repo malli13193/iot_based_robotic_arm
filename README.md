@@ -49,7 +49,7 @@ The 4R Pick-and-Place Robotic Arm is a robotic manipulator with four revolute jo
 
 ### Movement to Drop-Off Position
 - The arm moves to the drop-off location using forward kinematics and releases the object by deactivating the end-effector.
-
+![alpa_beta_angles_in arm](https://github.com/user-attachments/assets/21b6503d-919d-4ceb-b60f-19f4186be94c)
 ### Return to Home Position
 - After completing the task, the arm returns to its home or idle position to await the next task.
 
@@ -78,10 +78,19 @@ The 4R Pick-and-Place Robotic Arm is a robotic manipulator with four revolute jo
 ## Conclusion
 The 4R Pick-and-Place Robotic Arm is an effective solution for automation in industrial applications. While it has limitations, such as reach, payload capacity, and precision, advancements in AI, machine vision, and sensor technologies can further enhance its capabilities.
 
+
+## contributers
+K Mallikarjuna Reddy  	21121A3516
+CHATTA NAVEEN		        21121A3504
+T KUSHAL KUMAR		      21121A3545
+GIDDALURI STEVEN		    21121A3509
+
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
 
-![alpa_beta_angles_in arm](https://github.com/user-attachments/assets/21b6503d-919d-4ceb-b60f-19f4186be94c)
+
